@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name hct)(type KiCad)(uri ${KIPRJMOD}/hct)(options "")(descr ""))
+  (lib (name esp32)(type KiCad)(uri ${KIPRJMOD}/esp32-doit-devkit-v1-30pin-symbol-footprint/footprints/esp32_devkit_v1_doit.pretty)(options "")(descr ""))
+)

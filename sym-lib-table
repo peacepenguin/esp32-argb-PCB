@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name a)(type Legacy)(uri ${KIPRJMOD}/hct/74HCT245N.lib)(options "")(descr ""))
+  (lib (name esp32)(type Legacy)(uri ${KIPRJMOD}/esp32-doit-devkit-v1-30pin-symbol-footprint/symbols/esp32_devkit_v1_doit.lib)(options "")(descr ""))
+)
