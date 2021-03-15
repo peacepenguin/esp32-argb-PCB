@@ -1,4 +1,4 @@
-Kicad PCB for creating a simple ESP32 based open source 8-channel ARGB controller.
+Kicad PCB for creating a simple ESP32 based open source 8-channel ARGB controller for PC 5v ARGB devices, or any other WS2812 5v LED strips.
 
 Works well paired with "WLED" esp32 software. Using "multi-pin" fork found here:
 https://github.com/peacepenguin/WLED
