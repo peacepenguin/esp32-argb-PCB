@@ -1,8 +1,14 @@
-Kicad PCB for creating a simple ESP32 based ARGB controller.
+Kicad PCB for creating a simple ESP32 based open source 8-channel ARGB controller.
 
-Based on 30-pin "Devkit v1" (15 pins on each side):
+Works well paired with "WLED" esp32 software. Using "multi-pin" fork found here:
+https://github.com/peacepenguin/WLED
+
+WLED works with "OpenRGB" via serial too. So you can integrate this hardware design into a system controlled by OpenRGB via the "TPM2" serial protocol.
+
+Hardware footprint based on 30-pin "Devkit v1" (15 pins on each side):
 https://www.aliexpress.com/item/1005001648850998.html
 
+Also expects 74HCT245N 8-channel level shifter, and 8x JST-XH angle headers.
 
 ESP32 footprint used in Kicad is by Victor Lamoine, licensed BSD-3-Clause-Attribution License
 'This product includes software developed by Victor Lamoine.'
